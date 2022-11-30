@@ -1,16 +1,18 @@
-### Hi there 👋
+###Hi there 👋🏽
 
-<!--
-**vijayakunuri1/vijayakunuri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Thank you for visiting my GitHub profile, I'm so excited you are here!
 
-Here are some ideas to get you started:
+About Me:
+- 📊 I'm a data engineer who is passionate about all things data.
+- 📚 I love teaching others through creating free resources!
+- 😄 Pronouns - He/Him/His.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects:
+- 👉🏽 Blockfi  - setting up the data platform
+
+Fun Facts:
+- 🕺🏽 I love going for long drives.
+- 🎥 I love watching movies .
+
+Follow Me:
+⛓️ https://www.linkedin.com/in/vakunuri
