@@ -1,4 +1,4 @@
-###Hi there 👋🏽
+Hi there 👋🏽
 
 - Thank you for visiting my GitHub profile, I'm so excited you are here!
 
