@@ -8,7 +8,7 @@ About Me:
 - 😄 Pronouns - He/Him/His.
 
 Current Projects:
-- 👉🏽 Blockfi  - setting up the data platform
+- 👉🏽 Lockton  - setting up the data platform
 
 Fun Facts:
 - 🕺🏽 I love going for long drives.
